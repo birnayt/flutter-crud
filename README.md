@@ -1,16 +1,11 @@
-# flutter_crud
+# Flutter CRUD
 
-A new Flutter project.
+A simple CRUD in Flutter, to list users.
 
-## Getting Started
+In this project I have used concepts of Navigator to change route between Home and the User Form responsible for add or edit user. And I practiced a lot of widgets most common used like IconButton, Scaffold, ListView, Form, TextFormField and AlertDialog.
+Other amazing point that i studied was the concept of provider.
 
-This project is a starting point for a Flutter application.
+Follow images of the project:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](screenshot/image-01.png)
+![](screenshot/image-02.png)
